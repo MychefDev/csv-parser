@@ -1,0 +1,13 @@
+Configuración_envasadora,,
+Modelo,iSeal,iVac
+TIS8xxxx,3,14
+TIM10xxx,5,24
+TIM16xxx,5,31
+TIM20xxx,5,53
+TIL20xxx,7,20
+FSS20xxx,7,13
+FSS40xxx,7,27
+FSM40xxx,9,17
+FSM63xxx,9,23
+FSL63xxx,10,13
+FSL100xxx,10,19

@@ -1,0 +1,36 @@
+Numero,Motivo_del_video,Enlace_video_Youtube_ESP,Enlace_video_Youtube_EN,Enlace_video_Youtube_FR,Estado,Maquina
+1.0,Cambio aceite Tekvac,https://www.youtube.com/watch?v=dE8ZRsuji18,-,-,Publico,Tekvac
+2.0,Puesta a punto Tekvac,https://www.youtube.com/watch?v=_iJgd4TY4Vc,-,-,Publico,Tekvac
+3.0,Calibrar Tekvac,https://www.youtube.com/watch?v=ljmHC2aIoUw,-,-,Publico,Tekvac
+4.0,Limpieza Mychef MK1,https://www.youtube.com/watch?v=azQoiOR9OXY,-,-,Publico,Mychef MK1
+5.0,Tutorial control remoto BAKE/COOK,https://www.youtube.com/watch?v=Bp2iVJG9odU,https://www.youtube.com/watch?v=pcSupTaRrYI,https://www.youtube.com/watch?v=HT7Z1ZM58PA,Publico,BAKE/COOK PRO/MASTER/UP
+6.0,Tutorial uso BAKERSHOP/SNACK,https://www.youtube.com/watch?v=ZOHjm7nqttI,https://www.youtube.com/watch?v=ucCFqV4ZADk,https://www.youtube.com/watch?v=Kod0xt0bMRc,Publico,BAKERSHOP/SNACK
+7.0,Tutorial uso GoSensor,https://www.youtube.com/watch?v=9dLcwgcdUeI,https://www.youtube.com/watch?v=K0MafGp1DRo,https://www.youtube.com/watch?v=K0MafGp1DRo,Publico,GoSensor
+8.0,Tutorial uso iSENSOR,https://www.youtube.com/watch?v=R4IwKgS03R0,https://www.youtube.com/watch?v=n2dIgKuuXUQ,https://www.youtube.com/watch?v=n2dIgKuuXUQ,Publico, iSensor
+9.0,Tutorial uso BAKE/COOK,https://www.youtube.com/watch?v=3LKEfWNuO8s,https://www.youtube.com/watch?v=o1l6Ew8lwVc,https://www.youtube.com/watch?v=Yk5UYNUYACI,Publico,BAKE/COOK
+10.0,Cambio aceite iSensor/GoSensor,https://www.youtube.com/watch?v=SvK0RMZ04KA,https://www.youtube.com/watch?v=V395p9Ac6j0,https://www.youtube.com/watch?v=CUrjy3ICgMg,Publico,goSensor/iSensor
+11.0,Calibrar GoSensor,https://www.youtube.com/watch?v=5ORw7SaHvgg,https://www.youtube.com/watch?v=frkpxy9bw9c,https://www.youtube.com/watch?v=tzUB8XOefBU,Publico,goSensor/iSensor
+12.0,Calibrar iSensor,https://www.youtube.com/watch?v=BRBbr7BApcA,https://www.youtube.com/watch?v=8XTHIQgRF2Q,https://www.youtube.com/watch?v=jOtxkhCkowA,Publico, iSensor
+13.0,Conectar envasadora a impresora,https://www.youtube.com/watch?v=j-OOQWO0Fm8,https://www.youtube.com/watch?v=JvNC3-KkXQQ,https://www.youtube.com/watch?v=00rbsrxszf4,Publico,iSensor
+14.0,Test relés BAKERSHOP/SNACK,https://www.youtube.com/watch?v=v-JnxO9ALD8,https://www.youtube.com/watch?v=v3qInrBE_Tw,https://www.youtube.com/watch?v=yCjsME3s_HQ,Publico,BAKERSHOP/SNACK
+15.0,Test relés BAKE/COOK,https://www.youtube.com/watch?v=biWr1n3EmbI,https://www.youtube.com/watch?v=Ey3dXLr44HY,https://www.youtube.com/watch?v=o7X7j1WUpVQ,Publico,BAKE/COOK
+16.0,Mychef Cook - Menú configuración,https://youtu.be/G7C9LeCHevo,,,Oculto,BAKE/COOK
+17.0,goSensor - Ciclos y horas de funcionamiento,https://youtu.be/5_66GynNsMQ,,,Oculto,GoSensor
+18.0,Mychef Cook - Test de relés,https://youtu.be/94LMtPT5CmY,,,Oculto,BAKE/COOK
+19.0,Mychef Cook - Acceso control,https://youtu.be/oOAOLMjJS3Q,,,Oculto,BAKE/COOK
+20.0,iSensor - Ciclos y horas de funcionamiento,https://youtu.be/n_v8lGb-7bU,,,Oculto, iSensor
+21.0,iSensor - Menú servicio técnico,https://youtu.be/elMHOhyrM8c,,,Oculto, iSensor
+22.0,iSensor - Acceso partes activas,https://youtu.be/9ipaQuus6UQ,,,Oculto, iSensor
+23.0,After sales training (May 2021),https://youtu.be/2FEx-N2aux8,,,Oculto,Webinar ENG
+30.0, Test de relés en Mychef iCook o iBake,https://youtu.be/4NvFxr3TW0U,,,Oculto,iCook/iBake
+31.0,Comprobación estanquidad de la cámara en iSensor,https://youtu.be/cLFxy1mRazg,,,Oculto,iSensor
+32.0,Comprobación estanquidad de la cámara en goSensor,https://youtu.be/f7arIgDViSs,,,Oculto,goSensor
+33.0,Comprobación del caudal de agua en Cook o Bake (MASTER o PRO),https://youtu.be/oypSYO7gDZs,,,Oculto,BAKE/COOK
+34.0,Comprobación del caudal de agua necesario en iCook o iBake,https://youtu.be/XLQ8QaFWqVM,,,Oculto,iCook/iBake
+35.0,Cómo desmontar cierre QUICK,https://youtu.be/dLLOo_p1Eh4,,,Oculto,Quick
+36.0,Cómo desmontar altavoz QUICK,https://youtu.be/Jfdnk9FzulY,,,Oculto,Quick
+37.0,Barra soldadura iSensor,https://youtu.be/6EymwXU2nDs,,,Oculto,iSensor
+38.0,Barra soldadura goSensor,https://youtu.be/PSeoxZvDE9U,,,Oculto,goSensor
+39.0,Apertura Tapa iSensor,https://youtu.be/UTx8KZ3bVEc,,,Oculto,iSensor
+40.0,Apertura tapa goSensor,https://youtu.be/4O7Sg6HHajg,,,Oculto,goSensor
+,,,,,Deseable,
